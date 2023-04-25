@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "files_handler.h": "c",
+        "stdbool.h": "c",
+        "menu_functions.h": "c"
+    }
+}

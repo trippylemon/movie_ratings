@@ -1,0 +1,17 @@
+code,name,year,length,director
+0,The Shawshank Redemption,1994,142,Frank Darabont
+1,The Godfather,1972,175,Francis Ford Coppola
+2,The Dark Knight,2008,152,Christopher Nolan
+3,12 Angry Men,1957,96,Sidney Lumet
+4,The Lord of the Rings: The Return of the King,2003,201,Peter Jackson
+5,Schindler's List,1993,195,Steven Spielberg
+6,Forrest Gump,1994,142,Robert Zemeckis
+7,Inception,2010,148,Christopher Nolan
+8,The Lord of the Rings: The Fellowship of the Ring,2001,178,Peter Jackson
+9,Star Wars: Episode V - The Empire Strikes Back,1980,124,Irvin Kershner
+10,Pulp Fiction,1994,154,Quentin Tarantino
+11,The Matrix,1999,136,The Wachowski Brothers
+12,Goodfellas,1990,146,Martin Scorsese
+13,The Silence of the Lambs,1991,118,Jonathan Demme
+14,Se7en,1995,127,David Fincher
+15,Saving Private Ryan,1998,169,Steven Spielberg
